@@ -6,7 +6,7 @@ UC Berkeley CS 189/289A coursework.
 This repository focuses on the implementation side of machine learning:
 turning mathematical ideas and model architectures into working code.
 
-If you're interested in theoretical stuff (proofs, calculation, algorithm induction...), please refer to `HWs (ML Theory)`
+If you're interested in theoretical stuff (proofs, calculation, algorithm derivation...), please refer to `HWs (ML Theory)`
 
 ---
 
