@@ -10,7 +10,7 @@ If you're interested in theoretical stuff (proofs, calculation, algorithm induct
 
 ---
 
-## What This Repository Demonstrates
+## Contents Overview
 
 ### 1. Implementing Machine Learning Algorithms
 
